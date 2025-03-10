@@ -1,4 +1,5 @@
 # Iran Gold/Rial and Currency Market Analysis Dashboard
+![image](https://github.com/user-attachments/assets/5b363bcb-2c12-42aa-9345-a3f896ec3e7f)
 
 ## Introduction
 
